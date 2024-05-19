@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Kutay</h1>
+
+<!--
 <h3 align="center">Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kutay07&label=Profile%20views&color=0e75b6&style=flat" alt="kutay07" /> </p>
@@ -33,4 +35,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kutay07&show_icons=true&locale=en" alt="kutay07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kutay07&" alt="kutay07" /></p>
-
+-->
